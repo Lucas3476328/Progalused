@@ -9,6 +9,8 @@
             Console.WriteLine(bigNumber);
             double comaNumber = 12.5;
             Console.WriteLine(comaNumber);
+            string stringVar = "aaaa1***";
+            Console.WriteLine(stringVar);
         }
     }
 }
