@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("DataTypes");
+            int bigNumber = 123;
+            Console.WriteLine(bigNumber);
+            double comaNumber = 12.5;
+            Console.WriteLine(comaNumber);
         }
     }
 }
